@@ -16,8 +16,8 @@ Student Experience with Git Commit Signing
 
 ## Researchers
 
-[REDACTED], [REDACTED University]
-[REDACTED], [REDACTED University]
+- [REDACTED], [REDACTED University]
+- [REDACTED], [REDACTED University]
 
 ## Why am I being asked to be in this research study?
 
@@ -105,7 +105,7 @@ your rights as a research participant, contact the Institutional Review Board.
 By selecting the option below and clicking submit, you acknowledge that you have read the above
 form and consent to sharing your data.
 
-- [ ] I consent to share my data
+[ ] I consent to share my data
 
 ---
 
