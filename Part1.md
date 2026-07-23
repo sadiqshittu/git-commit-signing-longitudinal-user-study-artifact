@@ -1,16 +1,14 @@
-# Project: Usable Key Management (Part 1)
-
 # PROJECT: USABLE KEY MANAGEMENT (PART 1)
 
 In this project, you will gain hands-on experience with managing cryptographic keys. This experience will be gained by digitally signing and verifying a Git commit.
 
-This project is in two parts. In Part 1, you will set up your cryptographic keys and use them for the first time. After completing this part, in future projects, you will host your code on git, digitally sign it, and include the **.git** directory with the code you submit to Canvas. At the end of the semester, you will reflect on this experience and submit that reflection in Part 2.
+This project is in two parts. In Part 1, you will set up your cryptographic keys and use them for the first time. After completing this part, in future projects, you will host your code on Git, digitally sign it, and include the **.git** directory with the code you submit to Canvas. At the end of the semester, you will reflect on this experience and submit that reflection in Part 2.
 
 ## Requirements
 
 To complete the first part of this project, you will need to complete the following steps:
 
-1. Create a Git repository. It is fine is this repository is only local to your machine.
+1. Create a Git repository. It is fine if this repository is only local to your machine.
 2. Create a text file called **id.txt** containing your student ID.
 3. Commit this file to your repository. **Make sure the commit adding this file is digitally signed.**
 4. Verify that your commit is correctly signed.
@@ -33,7 +31,7 @@ Answer the following questions:
 
 - What were the easiest steps to set up Git commit signing, sign a commit, or verify a commit? Why were they the easiest?
 - What were the hardest one or two steps in setting up Git commit signing, signing a commit, or verifying a commit? Why were they the hardest?
-  What would you change about the setup process, if anything?
+- What would you change about the setup process, if anything?
 
 Answer the after-scenario questionnaire (ASQ) by indicating how much you agree with the following statements on a scale of 1 (strongly disagree) to 7 (strongly agree).
 
@@ -77,7 +75,4 @@ If after ninety minutes (1.5 hours) you feel stuck on this project, reach out to
 
 ## Submission
 
-Submit your written report as a PDF file to Canvas. Also, zip up the folder containing the repository with
-the signed commit. Make sure the .git folder is included in this folder. Finally, upload your public key as
-well. The TA will use the uploaded repository and public key to confirm that you correctly signed your
-commit.
+Submit your written report as a PDF file to Canvas. Also, zip up the folder containing the repository with the signed commit. Make sure the .git folder is included in this folder. Finally, upload your public key as well. The TA will use the uploaded repository and public key to confirm that you correctly signed your commit.
