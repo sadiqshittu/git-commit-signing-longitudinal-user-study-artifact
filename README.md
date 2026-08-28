@@ -10,6 +10,6 @@ This repository contains the assignment materials, survey instruments, qualitati
 - `Part1.md` — Assignment 1
 - `Part2.md` — Assignment 2
 - `analysis.py` — Script for repository processing, score calculation, and statistical tests
-- `codebook_final_git_study.pdf` — Qualitative codebook
+- `codebook_git_study.pdf` — Qualitative codebook
 - `consent_form.md` — Redacted participant consent form
 - `recruitment_email.md` — Redacted post-semester recruitment email
